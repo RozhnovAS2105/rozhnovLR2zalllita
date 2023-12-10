@@ -1,0 +1,3 @@
+﻿  RozhnovLR2zalllita.cpp
+D:\Проекты VS\RozhnovLR2zalllita\RozhnovLR2zalllita.cpp(111,25): warning C4244: инициализация: преобразование "unsigned __int64" в "float", возможна потеря данных
+  RozhnovLR2zalllita.vcxproj -> D:\Проекты VS\RozhnovLR2zalllita\x64\Debug\RozhnovLR2zalllita.exe
